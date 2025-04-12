@@ -31,13 +31,13 @@ const localLeaderboardData: LeaderboardUser[] = [
 const carouselSlides = [
   {
     id: 1,
-    image: "public/images/86e898ad-5d32-419a-8ba6-06c403cc87b7.jpg",
+    image: "/public/images/86e898ad-5d32-419a-8ba6-06c403cc87b7.jpg",
     title: "Reduce Your Carbon Footprint",
     description: "See your environmental impact and contribute to a greener planet."
   },
   {
     id: 2,
-    image: "public/images/0f06e305-3fab-4fbe-8305-88d10983c5f6.jpg", 
+    image: "/public/images/0f06e305-3fab-4fbe-8305-88d10983c5f6.jpg", 
     title: "Earn Points With Every Journey",
     description: "Turn your daily commute into rewards and environmental impact."
   },
